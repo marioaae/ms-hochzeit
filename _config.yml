@@ -55,9 +55,11 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 behance:           username
 
 # Gems
-gems:
+
+plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-gist
 
 # Exclude list
